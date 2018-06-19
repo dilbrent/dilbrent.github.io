@@ -1,7 +1,9 @@
 ## Welcome to Brent Tucker's GitHub.io Homepage
 
-### My personal homepage:
+### My miscellaneous personal sites:
 #### [http://brenttucker.com/](http://brenttucker.com/)
+#### [https://www.facebook.com/brent.tucker](https://www.facebook.com/brent.tucker)
+#### [https://twitter.com/dilbrent](https://twitter.com/dilbrent)
 
 ### Recent binary release:
 #### [https://github.com/dilbrent/bazel-0.14.1/releases/tag/bazel-0.14.1-armv7l-kali-java8](https://github.com/dilbrent/bazel-0.14.1/releases/tag/bazel-0.14.1-armv7l-kali-java8)
