@@ -8,7 +8,7 @@
 * [https://dilbrent.blogspot.com/](https://dilbrent.blogspot.com)
 
 ### Recent binary releases:
-##### [https://github.com/dilbrent/tensorflow-1.8.0-arm/releases](https://github.com/dilbrent/tensorflow-1.8.0-arm/releases)
+##### [https://github.com/dilbrent/tensorflow-1.8.0-arm/releases/tag/tensorflow-1.8.0-cp27-cp27mu-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.8.0-arm/releases/tag/tensorflow-1.8.0-cp27-cp27mu-linux_armv7l.whl)
 ![tflow180helloworld](https://user-images.githubusercontent.com/10505790/41958340-9e4ee652-799e-11e8-822e-3aa30d8914df.png)
 
 ##### [https://github.com/dilbrent/bazel-0.14.1/releases/tag/bazel-0.14.1-armv7l-kali-java8](https://github.com/dilbrent/bazel-0.14.1/releases/tag/bazel-0.14.1-armv7l-kali-java8)
