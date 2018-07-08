@@ -14,4 +14,7 @@
 ##### [https://github.com/dilbrent/bazel/releases/tag/0.15.0-arm](https://github.com/dilbrent/bazel/releases/tag/0.15.0-arm)
 ![bazel-0.15.0](https://user-images.githubusercontent.com/10505790/42209613-f549854c-7e63-11e8-82d3-da33242e0177.png)
 
+##### [https://github.com/dilbrent/HolyWatchFace/releases/tag/HolyChalkFace](https://github.com/dilbrent/HolyWatchFace/releases/tag/HolyChalkFace)
+![Holy Watch Face](https://user-images.githubusercontent.com/10505790/42420128-f73785aa-8275-11e8-92a6-3fd33b00eb41.png)
+
 ### Email me: [brent@brenttucker.com](mailto:brent@brenttucker.com?cc=dilbrent@dilbrent.com;dilbrent@gmail.com&amp;subject=Hi%20Brent!)
