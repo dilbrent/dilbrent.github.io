@@ -1,7 +1,7 @@
 ## Welcome to Brent Tucker's GitHub.io Homepage
 
 ### My miscellaneous personal sites:
-* [http://brenttucker.com/](http://brenttucker.com/)
+* [https://brenttucker.com/](http://brenttucker.com/)
 * [https://www.facebook.com/brent.tucker](https://www.facebook.com/brent.tucker)
 * [https://twitter.com/dilbrent](https://twitter.com/dilbrent)
 * [https://www.linkedin.com/in/brenttucker/](https://www.linkedin.com/in/brenttucker)
