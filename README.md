@@ -9,6 +9,10 @@
 
 ### Recent releases:
 
+##### TensorFlow 1.9.0 for ARM
+##### [https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm](https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm)
+![https://user-images.githubusercontent.com/10505790/42831772-12f7dfb2-89a4-11e8-8b6f-013bc0c7d891.png](https://user-images.githubusercontent.com/10505790/42831772-12f7dfb2-89a4-11e8-8b6f-013bc0c7d891.png)
+
 ##### TensorFlow 1.8.0/ARM In JupyterLab: Fast Style Transfer example
 ##### [https://github.com/dilbrent/misc/releases/tag/JupyterLab2](https://github.com/dilbrent/misc/releases/tag/JupyterLab2)
 ![JupyterTensorFlow](https://user-images.githubusercontent.com/10505790/42738236-4a6b71d6-8835-11e8-9a61-4e4d400fec32.png)
