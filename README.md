@@ -9,6 +9,10 @@
 
 ### Recent releases:
 
+##### TensorFlow 1.12.0/ARM pip install
+##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl)
+![tflow1120helloworld](https://user-images.githubusercontent.com/10505790/50559712-a5fa5500-0cae-11e9-8ca4-6fd100481624.png)
+
 ##### AR Mansion Demo
 ##### [https://github.com/dilbrent/Scenes/releases](https://github.com/dilbrent/Scenes/releases)
 ![https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png](https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png)
