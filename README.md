@@ -17,6 +17,9 @@
 ##### [https://github.com/dilbrent/Scenes/releases](https://github.com/dilbrent/Scenes/releases)
 ![https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png](https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png)
 
+###### YouTube demo video:
+[![Demo](http://img.youtube.com/vi/9h7gTb8L2Mg/0.jpg)](http://www.youtube.com/watch?v=9h7gTb8L2Mg)
+
 ##### TensorFlow 1.9.0 for ARM
 ##### [https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm](https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm)
 ![https://user-images.githubusercontent.com/10505790/42831772-12f7dfb2-89a4-11e8-8b6f-013bc0c7d891.png](https://user-images.githubusercontent.com/10505790/42831772-12f7dfb2-89a4-11e8-8b6f-013bc0c7d891.png)
