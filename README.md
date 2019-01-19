@@ -9,16 +9,19 @@
 
 ### Recent releases:
 
-##### TensorFlow 1.12.0/ARM pip install
-##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl)
-![tflow1120helloworld](https://user-images.githubusercontent.com/10505790/50559712-a5fa5500-0cae-11e9-8ca4-6fd100481624.png)
-
-##### AR Mansion Demo
-##### [https://github.com/dilbrent/Scenes/releases](https://github.com/dilbrent/Scenes/releases)
+##### AR Mansion Demo 1.1
+##### [https://github.com/dilbrent/Scenes/releases/tag/r1.1m1.1](https://github.com/dilbrent/Scenes/releases/tag/r1.1m1.1)
 ![https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png](https://user-images.githubusercontent.com/10505790/45006805-92183e00-afaf-11e8-8813-c5d1bb5852c4.png)
+
+###### Get from the Google Play Store:
+[https://play.google.com/store/apps/details?id=com.brenttucker.mansion](https://play.google.com/store/apps/details?id=com.brenttucker.mansion)
 
 ###### YouTube demo video:
 [![Demo](http://img.youtube.com/vi/9h7gTb8L2Mg/0.jpg)](http://www.youtube.com/watch?v=9h7gTb8L2Mg)
+
+##### TensorFlow 1.12.0/ARM pip install
+##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl)
+![tflow1120helloworld](https://user-images.githubusercontent.com/10505790/50559712-a5fa5500-0cae-11e9-8ca4-6fd100481624.png)
 
 ##### TensorFlow 1.9.0 for ARM
 ##### [https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm](https://github.com/dilbrent/tensorflow/releases/tag/r1.9arm)
