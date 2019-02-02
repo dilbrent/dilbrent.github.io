@@ -35,9 +35,10 @@
 ##### [https://github.com/dilbrent/tensorflow-1.8.0-arm/releases/tag/tensorflow-1.8.0-cp27-cp27mu-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.8.0-arm/releases/tag/tensorflow-1.8.0-cp27-cp27mu-linux_armv7l.whl)
 ![tflow180helloworld](https://user-images.githubusercontent.com/10505790/41958340-9e4ee652-799e-11e8-822e-3aa30d8914df.png)
 
-##### Bazel 0.15.0/ARM binary
-##### [https://github.com/dilbrent/bazel/releases/tag/0.15.0-arm](https://github.com/dilbrent/bazel/releases/tag/0.15.0-arm)
-![bazel-0.15.0](https://user-images.githubusercontent.com/10505790/42209613-f549854c-7e63-11e8-82d3-da33242e0177.png)
+##### Bazel 0.16.0/ARM/ARM64 binaries
+##### [https://github.com/dilbrent/bazel/releases/tag/0.16.0.arm_aarch64](https://github.com/dilbrent/bazel/releases/tag/0.16.0.arm_aarch64)
+![bazel-0.16.0](https://user-images.githubusercontent.com/10505790/52161071-5f649580-2674-11e9-9022-f9eee2ffa539.png)
+###### Etc. [https://github.com/dilbrent/bazel/releases](https://github.com/dilbrent/bazel/releases)
 
 ##### A watch face for Android Wear
 ##### [https://github.com/dilbrent/HolyWatchFace/releases/tag/HolyChalkFace](https://github.com/dilbrent/HolyWatchFace/releases/tag/HolyChalkFace)
