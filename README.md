@@ -9,6 +9,10 @@
 
 ### Recent releases:
 
+##### TensorFlow 1.12.0 arm64/aarch64 for Python 3.7
+##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/tag/r1.12.0-aarch64-CP37](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/tag/r1.12.0-aarch64-CP37)
+![tflow1120arm64python37](https://user-images.githubusercontent.com/10505790/54947594-ec4f0100-4ef7-11e9-88fb-fd0ea3aa433e.png)
+
 ##### AR Mansion Demo 1.1
 ##### [https://github.com/dilbrent/Scenes/releases/tag/r1.1m1.1](https://github.com/dilbrent/Scenes/releases/tag/r1.1m1.1)
 ##### [https://garagesalegames.com/](https://garagesalegames.com/)
