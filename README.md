@@ -9,6 +9,10 @@
 
 ### Recent releases:
 
+##### Tensorflow 1.13.1 for aarch64/arm64
+##### [https://github.com/dilbrent/bazel/releases/tag/0.21.0.arm_aarch64](https://github.com/dilbrent/bazel/releases/tag/0.21.0.arm_aarch64)
+![tflow1131xenialAarch64](https://user-images.githubusercontent.com/10505790/55461857-59bef980-55aa-11e9-9695-6b812fe5f2e6.png)
+
 ##### TensorFlow 1.12.0 arm64/aarch64 for Python 3.7
 ##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/tag/r1.12.0-aarch64-CP37](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/tag/r1.12.0-aarch64-CP37)
 ![tflow1120arm64python37](https://user-images.githubusercontent.com/10505790/54947594-ec4f0100-4ef7-11e9-88fb-fd0ea3aa433e.png)
