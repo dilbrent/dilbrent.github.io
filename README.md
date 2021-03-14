@@ -1,7 +1,7 @@
 ## Welcome to Brent Tucker's GitHub.io Homepage
 
 ### My miscellaneous personal sites:
-* [https://brenttucker.com/](http://brenttucker.com/)
+* [https://brenttucker.com/](https://brenttucker.com/)
 * [https://www.facebook.com/brent.tucker](https://www.facebook.com/brent.tucker)
 * [https://twitter.com/dilbrent](https://twitter.com/dilbrent)
 * [https://www.linkedin.com/in/brenttucker/](https://www.linkedin.com/in/brenttucker)
@@ -26,7 +26,7 @@
 [https://play.google.com/store/apps/details?id=com.brenttucker.mansion](https://play.google.com/store/apps/details?id=com.brenttucker.mansion)
 
 ###### YouTube demo video:
-[![Demo](http://img.youtube.com/vi/9h7gTb8L2Mg/0.jpg)](http://www.youtube.com/watch?v=9h7gTb8L2Mg)
+[![Demo](https://img.youtube.com/vi/9h7gTb8L2Mg/0.jpg)](https://www.youtube.com/watch?v=9h7gTb8L2Mg)
 
 ##### TensorFlow 1.12.0/ARM pip install
 ##### [https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl](https://github.com/dilbrent/tensorflow-1.12.0-arm/releases/download/r1.12.0-arm-CP36/tensorflow-1.12.0-cp36-cp36m-linux_armv7l.whl)
